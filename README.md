@@ -1,4 +1,4 @@
-# AIRMAC v1.1.0
+# AIRMAC v1.1.0 (AI Risk Management Capability Assessment)
 
 Application released October 28, 2026. README updated October 29, 2026 to include the AIRMAC demonstration package. Implements the approved AIRMAC Assessment Method Specification Draft 0.1. The original AIRMAC v1.0.0 file is unchanged.
 
