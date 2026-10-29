@@ -1,0 +1,22 @@
+AIRMAC v1.1.0 demonstration package
+
+1. Read AIRMAC_Demonstration_Use_Case.docx.
+2. Open your existing AIRMAC-v1.1.0.html application.
+3. Export any existing assessment JSON before importing a demonstration.
+4. In Method & files, Import JSON:
+   - AIRMAC_Demo_Worked_Assessment.json for a quick review demonstration.
+   - AIRMAC_Demo_Starter.json for hands-on entry using the guide.
+5. Read AIRMAC_Demo_Evidence.md alongside the application. It contains the
+   synthetic evidence referenced in both JSON files.
+
+Expected worked results:
+- Three systems; all sampled; one high-impact.
+- 42 test results: 39 Pass, two Fail, one N/A.
+- 33 assessed practices: 31 Meets and two gaps.
+- Overall current 3 Defined; target 4 Managed.
+- RSK-4 and MON-2 are the gaps; Risk criteria domain is 2, all others 3.
+- Two sign-off/readiness messages remain until demonstration lead sign-off
+  and reviewer approval are completed.
+
+All records, approvals and people are fictional. The case is for training,
+not assurance about a real organization. The HTML application is unchanged.
